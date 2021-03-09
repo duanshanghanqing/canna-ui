@@ -1,6 +1,6 @@
 {
   "name": "canna-ui",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "a component library based on Ant Design Vue",
   "main": "src/index.js",
   "typings": "src/index.d.ts",
