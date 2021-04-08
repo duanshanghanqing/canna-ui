@@ -90,7 +90,6 @@ export default defineComponent({
     const proxy: any = instance.proxy;
     // console.log(proxy.$root.$route);
     const location: string = proxy.$root.$router.options.history.location;
-    console.log(location);
 
     const state = reactive({
       menuList: props.menuList,

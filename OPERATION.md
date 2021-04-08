@@ -15,9 +15,10 @@ npm i
     npm link xxx\node_modules\vue
 
     // Create a soft connection and execute it in the root directory
-    npm link
+    npm link 
 
     // Use the soft connection to import in the project to be used
+    npm uninstall canna-ui
     npm link canna-ui
 
 ## publish
