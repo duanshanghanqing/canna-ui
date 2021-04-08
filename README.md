@@ -28,3 +28,8 @@
         </template>
         </canna-layout>
     </template>
+
+### components
+
+    canna-layout
+    canna-drawer
